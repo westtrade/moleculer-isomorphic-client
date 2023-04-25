@@ -1,0 +1,21 @@
+{
+	"name": "@westtrade/moleculer-client",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon ./packages/"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"volta": {
+		"node": "18.16.0",
+		"npm": "9.6.5"
+	},
+	"devDependencies": {
+		"moleculer": "^0.14.29",
+		"nodemon": "^2.0.22"
+	}
+}
